@@ -1,10 +1,10 @@
-# Hello, I'm Philip King
+# Hello, I'm Nana-Quami
 
 <a href="https://www.linkedin.com/in/philip-king-06a6036/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-Assistant Professor of Cybersecurity
+Undergraduate Cyber Security Student
 
 
 
@@ -106,11 +106,11 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 
 ## Projects
 
-- <a href="https://github.com/profkingUtica/Wireshark">Wireshark</a> 
+- <a href="https://github.com/nana-quami/Wireshark">Wireshark</a> 
 
-- <a href="https://github.com/profkingUtica/ELK-Stack/">ELK Stack</a>
+- <a href="https://github.com/nana-quami/ELK-Stack/">ELK Stack</a>
 
-- <a href="https://github.com/profkingUtica/ELK-Stack">SOC Automation Project</a>
+- <a href="https://github.com/nana-quami/ELK-Stack">SOC Automation Project</a>
 
-- <a href="https://github.com/profkingUtica/ELK-Stack">teest2</a>
+- <a href="https://github.com/nana-quami/ELK-Stack">teest2</a>
 
