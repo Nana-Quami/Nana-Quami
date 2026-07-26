@@ -1,6 +1,6 @@
 # Hello, I'm Nana-Quami
 
-<a href=[>](https://www.linkedin.com/in/kwame-agyemang-0b8902424/)<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 
@@ -16,7 +16,6 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 
 ## Skills
 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 
 
@@ -40,7 +39,6 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 
 ## Tools
 
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 
 
@@ -86,7 +84,7 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 
 ## Certifications
 
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 <div>
 
